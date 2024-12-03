@@ -368,3 +368,9 @@ console.log(string9.repeat(10)); // lovelovelovelovelovelovelovelovelovelove
 
 //? Float to Int
 // *parselnt()
+
+// ***********************************************************************************************
+// String to Int: parseInt(), Number(), + operatörü
+// String to Float: parseFloat(), Number()
+// Float to Int: parseInt(), yuvarlama fonksiyonları (Math.round(), Math.floor(), Math.ceil())
+// ***********************************************************************************************
